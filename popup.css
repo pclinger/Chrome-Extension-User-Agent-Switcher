@@ -1,0 +1,11 @@
+body {
+	width: 400px;
+}
+
+#ua-custom {
+	width: 75%;
+}
+
+input[type=button] {
+	margin-top: 5px;
+}

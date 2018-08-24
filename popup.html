@@ -1,0 +1,30 @@
+<!DOCTYPE html lang="en">
+<title>Popup</title>
+<link rel="stylesheet" type="text/css" href="popup.css">
+<form>
+    <div id="current">
+        <h1>Current UA</h1>
+        <p id="current-ua"></p>
+    </div>
+
+    <div>
+        <h1>Change UA</h1>
+        <p>
+            <h3>Common UAs</h3>
+            <select id="ua-predefined">
+            </select><br>
+            <input type="button" id="submit-ua-predefined" value="Change UA">
+        </p>
+        <p>
+            <h3>Custom String</h3>
+            <input type="text" id="ua-custom"><br>
+            <input type="button" id="submit-ua-custom" value="Change UA">
+        </p>
+    </div>
+
+    <div id="reset">
+        <h1>Reset to Default</h1>
+        <input type="button" id="submit-ua-reset" value="Reset UA">
+    </div>
+</form>
+<script src="popup.js"></script>
