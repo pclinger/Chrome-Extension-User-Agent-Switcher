@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "User Agent Switcher",
     "description": "Change your user agent quickly and easily",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "permissions": [
         "webRequest",
         "webRequestBlocking",
@@ -20,5 +20,10 @@
         "matches":   ["<all_urls>"],
         "run_at":    "document_start"
         }
-    ]
+    ],
+    "icons": {
+        "16": "ua-icon-16.png",
+        "48": "ua-icon-48.png",
+        "128": "ua-icon-128.png"
+    }
 }
