@@ -33,8 +33,8 @@ let userAgents = {
 		{ name: 'IE 8', value: 'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)' },
 		{ name: 'IE 7', value: 'Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 6.0; en-US)' },
 		{ name: 'IE 6', value: 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)' },
-		{ name: 'Firefox ', value: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0' },
-		{ name: 'Chrome 68', value: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36' },
+		{ name: 'Firefox 62', value: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0.2' },
+		{ name: 'Chrome 69', value: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.102 Safari/537.36' },
 		{ name: 'Opera 52', value: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.64' }
 	],
 	'Mac': [
